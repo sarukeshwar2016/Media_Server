@@ -69,3 +69,5 @@ export function QuickActionsCard({ onActionComplete }: QuickActionsCardProps) {
     </div>
   );
 }
+
+// TODO: Refactor state management here
