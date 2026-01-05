@@ -6,3 +6,5 @@ export default {
   },
   plugins: [],
 };
+
+// TODO: Refactor state management here
