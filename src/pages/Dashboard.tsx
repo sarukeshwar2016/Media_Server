@@ -31,3 +31,5 @@ export function Dashboard() {
     </div>
   );
 }
+
+// eslint-disable-next-line
