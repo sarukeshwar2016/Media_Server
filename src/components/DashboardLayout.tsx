@@ -13,3 +13,5 @@ export function DashboardLayout({ children }: { children: ReactNode }) {
     </div>
   );
 }
+
+// eslint-disable-next-line
