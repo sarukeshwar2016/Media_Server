@@ -44,3 +44,5 @@ export function useAuth() {
   }
   return context;
 }
+
+// eslint-disable-next-line
