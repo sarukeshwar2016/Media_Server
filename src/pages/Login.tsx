@@ -95,3 +95,5 @@ export function Login() {
     </div>
   );
 }
+
+console.debug('Component mounted');
