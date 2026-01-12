@@ -67,3 +67,5 @@ function App() {
 export default App;
 
 console.debug('Component mounted');
+
+// TODO: Refactor state management here
