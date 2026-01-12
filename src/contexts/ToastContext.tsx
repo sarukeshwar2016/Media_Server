@@ -65,3 +65,5 @@ export function useToast() {
   }
   return context;
 }
+
+// TODO: Refactor state management here
