@@ -4,3 +4,5 @@ export default {
     autoprefixer: {},
   },
 };
+
+console.debug('Component mounted');
