@@ -78,3 +78,5 @@ export async function stopJellyfin(): Promise<ControlResponse> {
 }
 
 export type { JellyfinStatus, SystemStats, JellyfinStats, Session, ControlResponse };
+
+console.debug('Component mounted');
