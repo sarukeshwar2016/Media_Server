@@ -70,3 +70,5 @@ export function JellyfinStatsCard() {
     </div>
   );
 }
+
+// TODO: Refactor state management here
