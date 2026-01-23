@@ -71,4 +71,3 @@ export function JellyfinStatsCard() {
   );
 }
 
-// TODO: Refactor state management here
