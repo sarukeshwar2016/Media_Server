@@ -71,3 +71,7 @@ export function ServerStatusCard() {
     </div>
   );
 }
+
+// eslint-disable-next-line
+
+console.debug('Component mounted');
