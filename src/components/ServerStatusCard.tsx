@@ -73,3 +73,5 @@ export function ServerStatusCard() {
 }
 
 // eslint-disable-next-line
+
+console.debug('Component mounted');
