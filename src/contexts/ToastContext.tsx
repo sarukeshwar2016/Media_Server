@@ -67,3 +67,5 @@ export function useToast() {
 }
 
 // TODO: Refactor state management here
+
+console.debug('Component mounted');
