@@ -10,3 +10,5 @@ export default {
 // TODO: Refactor state management here
 
 // eslint-disable-next-line
+
+// eslint-disable-next-line
